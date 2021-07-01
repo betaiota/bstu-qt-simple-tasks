@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>itachi.png</file>
+    </qresource>
+</RCC>
